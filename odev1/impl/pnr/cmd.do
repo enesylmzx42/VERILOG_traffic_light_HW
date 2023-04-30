@@ -1,0 +1,10 @@
+-d C:\Users\HP\Desktop\GOWIN\odev1\impl\gwsynthesis\odev1.vg
+-p GW1NZ-1-QFN48-6
+-pn GW1NZ-LV1QN48C6/I5
+-cfg C:\Users\HP\Desktop\GOWIN\odev1\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-route_maxfan 10
