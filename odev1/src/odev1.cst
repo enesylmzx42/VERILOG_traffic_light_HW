@@ -4,7 +4,7 @@
 //GOWIN Version: 1.9.8.09 Education
 //Part Number: GW1NZ-LV1QN48C6/I5
 //Device: GW1NZ-1
-//Created Time: Sun 04 30 23:50:14 2023
+//Created Time: Mon 05 01 00:32:38 2023
 
 IO_LOC "led[2]" 11;
 IO_PORT "led[2]" PULL_MODE=UP DRIVE=8;

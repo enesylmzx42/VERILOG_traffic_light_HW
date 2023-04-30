@@ -1,6 +1,8 @@
 Reading netlist file: "C:\Users\HP\Desktop\GOWIN\odev1\impl\gwsynthesis\odev1.vg"
 Parsing netlist file "C:\Users\HP\Desktop\GOWIN\odev1\impl\gwsynthesis\odev1.vg" completed
 Processing netlist completed
+Reading constraint file: "C:\Users\HP\Desktop\GOWIN\odev1\src\odev1.cst"
+Physical Constraint parsed completed
 Running placement......
 [10%] Placement Phase 0 completed
 [20%] Placement Phase 1 completed
@@ -23,5 +25,5 @@ Generate file "C:\Users\HP\Desktop\GOWIN\odev1\impl\pnr\odev1.pin.html" complete
 Generate file "C:\Users\HP\Desktop\GOWIN\odev1\impl\pnr\odev1.rpt.html" completed
 Generate file "C:\Users\HP\Desktop\GOWIN\odev1\impl\pnr\odev1.rpt.txt" completed
 Generate file "C:\Users\HP\Desktop\GOWIN\odev1\impl\pnr\odev1.tr.html" completed
-Sun Apr 30 23:49:49 2023
+Mon May 01 00:41:35 2023
 
